@@ -1,0 +1,7 @@
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.pdb
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.exe
+C:\Users\tweed\source\repos\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.pdb
